@@ -11,25 +11,16 @@
     "type": "git",
     "url": "git+https://github.com/CougarChan/Revolutionary-Employee-Tracker.git"
   },
- 
-
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/CougarChan/Revolutionary-Employee-Tracker/issues"
   },
-  
   "dependencies": {
     "console.table": "^0.10.0",
     "inquirer": "^8.2.4",
     "mysql2": "^2.3.3"
   },
-  
   "homepage": "https://github.com/CougarChan/Revolutionary-Employee-Tracker#readme"
-
 }
-
-
-
-
